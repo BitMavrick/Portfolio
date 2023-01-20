@@ -12,4 +12,17 @@ class generalController extends Controller
     {
         return view('index');
     }
+
+    public function store(Request $request)
+    {
+        $request->validate([
+            'name' => 'required',
+            'email' => 'required',
+            'message' => 'required',
+        ]);
+
+        Contact::create($request->all());
+
+        return redirect()->route('home');
+    }
 }

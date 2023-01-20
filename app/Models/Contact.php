@@ -9,6 +9,9 @@ class Contact extends Model
 {
     use HasFactory;
 
+    //spcify the table name
+    protected $table = 'contact';
+
     protected $fillable = [
         'name',
         'email',
