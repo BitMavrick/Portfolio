@@ -4,11 +4,10 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Moonlight CSS Template</title>
-    <!-- 
-Moonlight Template 
-http://www.templatemo.com/tm-512-moonlight
--->
+    <title>Mehedi Hasan</title>
+
+    <link href="img/mini_logo.svg" rel="icon" />
+
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -29,15 +28,11 @@ http://www.templatemo.com/tm-512-moonlight
     <div class="sequence">
 
         <div class="seq-preloader">
-            <svg width="39" height="16" viewBox="0 0 39 16" xmlns="http://www.w3.org/2000/svg"
-                class="seq-preload-indicator">
+            <svg width="39" height="16" viewBox="0 0 39 16" xmlns="http://www.w3.org/2000/svg" class="seq-preload-indicator">
                 <g fill="#F96D38">
-                    <path class="seq-preload-circle seq-preload-circle-1"
-                        d="M3.999 12.012c2.209 0 3.999-1.791 3.999-3.999s-1.79-3.999-3.999-3.999-3.999 1.791-3.999 3.999 1.79 3.999 3.999 3.999z" />
-                    <path class="seq-preload-circle seq-preload-circle-2"
-                        d="M15.996 13.468c3.018 0 5.465-2.447 5.465-5.466 0-3.018-2.447-5.465-5.465-5.465-3.019 0-5.466 2.447-5.466 5.465 0 3.019 2.447 5.466 5.466 5.466z" />
-                    <path class="seq-preload-circle seq-preload-circle-3"
-                        d="M31.322 15.334c4.049 0 7.332-3.282 7.332-7.332 0-4.049-3.282-7.332-7.332-7.332s-7.332 3.283-7.332 7.332c0 4.05 3.283 7.332 7.332 7.332z" />
+                    <path class="seq-preload-circle seq-preload-circle-1" d="M3.999 12.012c2.209 0 3.999-1.791 3.999-3.999s-1.79-3.999-3.999-3.999-3.999 1.791-3.999 3.999 1.79 3.999 3.999 3.999z" />
+                    <path class="seq-preload-circle seq-preload-circle-2" d="M15.996 13.468c3.018 0 5.465-2.447 5.465-5.466 0-3.018-2.447-5.465-5.465-5.465-3.019 0-5.466 2.447-5.466 5.465 0 3.019 2.447 5.466 5.466 5.466z" />
+                    <path class="seq-preload-circle seq-preload-circle-3" d="M31.322 15.334c4.049 0 7.332-3.282 7.332-7.332 0-4.049-3.282-7.332-7.332-7.332s-7.332 3.283-7.332 7.332c0 4.05 3.283 7.332 7.332 7.332z" />
                 </g>
             </svg>
         </div>
@@ -47,10 +42,10 @@ http://www.templatemo.com/tm-512-moonlight
 
     <nav>
         <div class="logo">
-            <img src="img/logo.png" alt="">
+            <img src="img/logo.svg" alt="">
         </div>
         <div class="mini-logo">
-            <img src="img/mini_logo.png" alt="">
+            <img src="img/mini_logo.svg" alt="">
         </div>
         <ul>
             <li><a href="#1"><i class="fa fa-home"></i> <em>Home</em></a></li>
@@ -88,11 +83,11 @@ http://www.templatemo.com/tm-512-moonlight
                             <p>Please tell your friends about templatemo website. A variety of free CSS templates are
                                 available for immediate downloads.</p>
                             <p>Phasellus vitae faucibus orci. Etiam eleifend orci sed faucibus semper. Cras varius dolor
-                                et augue fringilla, eu commodo sapien iaculis. Donec eget dictum tellus. <a
-                                    href="#">Curabitur</a> a interdum diam. Nulla vestibulum porttitor porta.</p>
+                                et augue fringilla, eu commodo sapien iaculis. Donec eget dictum tellus. <a href="#">Curabitur</a> a interdum diam. Nulla vestibulum porttitor porta.</p>
                             <p>Nulla vitae interdum libero, vel posuere ipsum. Phasellus interdum est et dapibus tempus.
                                 Vestibulum malesuada lorem condimentum mauris ornare dapibus. Curabitur tempor ligula et
-                                <a href="#">placerat</a> molestie.</p>
+                                <a href="#">placerat</a> molestie.
+                            </p>
                             <p>Aliquam efficitur eu purus in interdum. <a href="#">Etiam tincidunt</a> magna ex, sit
                                 amet lobortis felis bibendum id. Lorem ipsum dolor sit amet, consectetur adipiscing
                                 elit. </p>
@@ -390,9 +385,7 @@ http://www.templatemo.com/tm-512-moonlight
             3. Click "Share" and choose "Embed map" tab
             4. Copy only URL and paste it within the src="" field below
 	-->
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945"
-                                width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -400,26 +393,22 @@ http://www.templatemo.com/tm-512-moonlight
                             <div class="row">
                                 <div class="col-md-12">
                                     <fieldset>
-                                        <input name="name" type="text" class="form-control" id="name"
-                                            placeholder="Your name..." required="">
+                                        <input name="name" type="text" class="form-control" id="name" placeholder="Your name..." required="">
                                     </fieldset>
                                 </div>
                                 <div class="col-md-12">
                                     <fieldset>
-                                        <input name="email" type="email" class="form-control" id="email"
-                                            placeholder="Your email..." required="">
+                                        <input name="email" type="email" class="form-control" id="email" placeholder="Your email..." required="">
                                     </fieldset>
                                 </div>
                                 <div class="col-md-12">
                                     <fieldset>
-                                        <input name="subject" type="text" class="form-control" id="subject"
-                                            placeholder="Subject..." required="">
+                                        <input name="subject" type="text" class="form-control" id="subject" placeholder="Subject..." required="">
                                     </fieldset>
                                 </div>
                                 <div class="col-md-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message"
-                                            placeholder="Your message..." required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-md-12">
@@ -445,7 +434,7 @@ http://www.templatemo.com/tm-512-moonlight
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>
-    window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
+        window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
     </script>
 
     <script src="js/vendor/bootstrap.min.js"></script>
@@ -456,47 +445,45 @@ http://www.templatemo.com/tm-512-moonlight
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
     <script type="text/javascript">
-    $(document).ready(function() {
+        $(document).ready(function() {
 
-
-
-        // navigation click actions 
-        $('.scroll-link').on('click', function(event) {
-            event.preventDefault();
-            var sectionID = $(this).attr("data-id");
-            scrollToID('#' + sectionID, 750);
+            // navigation click actions 
+            $('.scroll-link').on('click', function(event) {
+                event.preventDefault();
+                var sectionID = $(this).attr("data-id");
+                scrollToID('#' + sectionID, 750);
+            });
+            // scroll to top action
+            $('.scroll-top').on('click', function(event) {
+                event.preventDefault();
+                $('html, body').animate({
+                    scrollTop: 0
+                }, 'slow');
+            });
+            // mobile nav toggle
+            $('#nav-toggle').on('click', function(event) {
+                event.preventDefault();
+                $('#main-nav').toggleClass("open");
+            });
         });
-        // scroll to top action
-        $('.scroll-top').on('click', function(event) {
-            event.preventDefault();
-            $('html, body').animate({
-                scrollTop: 0
-            }, 'slow');
-        });
-        // mobile nav toggle
-        $('#nav-toggle').on('click', function(event) {
-            event.preventDefault();
-            $('#main-nav').toggleClass("open");
-        });
-    });
-    // scroll function
-    function scrollToID(id, speed) {
-        var offSet = 0;
-        var targetOffset = $(id).offset().top - offSet;
-        var mainNav = $('#main-nav');
-        $('html,body').animate({
-            scrollTop: targetOffset
-        }, speed);
-        if (mainNav.hasClass("open")) {
-            mainNav.css("height", "1px").removeClass("in").addClass("collapse");
-            mainNav.removeClass("open");
+        // scroll function
+        function scrollToID(id, speed) {
+            var offSet = 0;
+            var targetOffset = $(id).offset().top - offSet;
+            var mainNav = $('#main-nav');
+            $('html,body').animate({
+                scrollTop: targetOffset
+            }, speed);
+            if (mainNav.hasClass("open")) {
+                mainNav.css("height", "1px").removeClass("in").addClass("collapse");
+                mainNav.removeClass("open");
+            }
         }
-    }
-    if (typeof console === "undefined") {
-        console = {
-            log: function() {}
-        };
-    }
+        if (typeof console === "undefined") {
+            console = {
+                log: function() {}
+            };
+        }
     </script>
 </body>
 
