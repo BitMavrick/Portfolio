@@ -28,11 +28,15 @@
     <div class="sequence">
 
         <div class="seq-preloader">
-            <svg width="39" height="16" viewBox="0 0 39 16" xmlns="http://www.w3.org/2000/svg" class="seq-preload-indicator">
+            <svg width="39" height="16" viewBox="0 0 39 16" xmlns="http://www.w3.org/2000/svg"
+                class="seq-preload-indicator">
                 <g fill="#F96D38">
-                    <path class="seq-preload-circle seq-preload-circle-1" d="M3.999 12.012c2.209 0 3.999-1.791 3.999-3.999s-1.79-3.999-3.999-3.999-3.999 1.791-3.999 3.999 1.79 3.999 3.999 3.999z" />
-                    <path class="seq-preload-circle seq-preload-circle-2" d="M15.996 13.468c3.018 0 5.465-2.447 5.465-5.466 0-3.018-2.447-5.465-5.465-5.465-3.019 0-5.466 2.447-5.466 5.465 0 3.019 2.447 5.466 5.466 5.466z" />
-                    <path class="seq-preload-circle seq-preload-circle-3" d="M31.322 15.334c4.049 0 7.332-3.282 7.332-7.332 0-4.049-3.282-7.332-7.332-7.332s-7.332 3.283-7.332 7.332c0 4.05 3.283 7.332 7.332 7.332z" />
+                    <path class="seq-preload-circle seq-preload-circle-1"
+                        d="M3.999 12.012c2.209 0 3.999-1.791 3.999-3.999s-1.79-3.999-3.999-3.999-3.999 1.791-3.999 3.999 1.79 3.999 3.999 3.999z" />
+                    <path class="seq-preload-circle seq-preload-circle-2"
+                        d="M15.996 13.468c3.018 0 5.465-2.447 5.465-5.466 0-3.018-2.447-5.465-5.465-5.465-3.019 0-5.466 2.447-5.466 5.465 0 3.019 2.447 5.466 5.466 5.466z" />
+                    <path class="seq-preload-circle seq-preload-circle-3"
+                        d="M31.322 15.334c4.049 0 7.332-3.282 7.332-7.332 0-4.049-3.282-7.332-7.332-7.332s-7.332 3.283-7.332 7.332c0 4.05 3.283 7.332 7.332 7.332z" />
                 </g>
             </svg>
         </div>
@@ -50,7 +54,7 @@
         <ul>
             <li><a href="#1"><i class="fa fa-home"></i> <em>Home</em></a></li>
             <li><a href="#2"><i class="fa fa-user"></i> <em>About</em></a></li>
-            <li><a href="#3"><i class="fa fa-pencil"></i> <em>Entries</em></a></li>
+            <li><a href="#3"><i class="fa fa-pencil"></i> <em>Education</em></a></li>
             <li><a href="#4"><i class="fa fa-image"></i> <em>Work</em></a></li>
             <li><a href="#5"><i class="fa fa-envelope"></i> <em>Contact</em></a></li>
         </ul>
@@ -61,15 +65,17 @@
             <div class="content first-content">
                 <div class="container-fluid">
                     <div class="col-md-3">
-                        <div class="author-image"><img src="img/author_image.png" alt=""></div>
+                        <div class="author-image"><img src="img/author_image.jpeg" alt=""></div>
                     </div>
                     <div class="col-md-9">
-                        <h2>Mingalar par</h2>
-                        <p>Lorem ipsum <em>dolor sit amet</em>, consectetur adipiscing elit. <em>Sed vehicula blandit
-                                augue,</em> eu maximus odio tempus vitae.</p>
+                        <h2>MEHEDI HASAN</h2>
+                        <p> <strong>WITH A STRONG FOUNDATION IN PROGRAMMING LANGUAGES AND A DESIRE TO CONTINUOUSLY LEARN
+                                AND
+                                IMPROVE,
+                                I AM READY TO TACKLE ANY SOFTWARE DEVELOPMENT CHALLENGE</strong></p>
                         <div class="main-btn"><a href="#2">Read More</a></div>
-                        <div class="fb-btn"><a href="https://www.facebook.com/templatemo/" target="_blank">Our FB
-                                Page</a></div>
+                        <div class="fb-btn"><a href="mailto:hello.mehedi@outlook.com">Send Mail</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -79,18 +85,23 @@
                 <div class="container-fluid">
                     <div class="col-md-6">
                         <div class="left-content">
-                            <h2>About Us</h2>
-                            <p>Please tell your friends about templatemo website. A variety of free CSS templates are
-                                available for immediate downloads.</p>
-                            <p>Phasellus vitae faucibus orci. Etiam eleifend orci sed faucibus semper. Cras varius dolor
-                                et augue fringilla, eu commodo sapien iaculis. Donec eget dictum tellus. <a href="#">Curabitur</a> a interdum diam. Nulla vestibulum porttitor porta.</p>
-                            <p>Nulla vitae interdum libero, vel posuere ipsum. Phasellus interdum est et dapibus tempus.
-                                Vestibulum malesuada lorem condimentum mauris ornare dapibus. Curabitur tempor ligula et
-                                <a href="#">placerat</a> molestie.
-                            </p>
-                            <p>Aliquam efficitur eu purus in interdum. <a href="#">Etiam tincidunt</a> magna ex, sit
-                                amet lobortis felis bibendum id. Lorem ipsum dolor sit amet, consectetur adipiscing
-                                elit. </p>
+                            <h2>About Me</h2>
+                            <p>Hi, I'm Mehedi Hasan, a software engineer with a B.Sc degree in Software Engineering from
+                                Daffodil International University. I have over a year of experience as a Laravel
+                                developer, working on projects that involve building web applications and APIs. In
+                                addition to that, I also enjoy competitive programming and have participated in various
+                                coding contests.</p>
+
+                            <p>Apart from Laravel, I have also worked with other frameworks such as Django and Vue. I am
+                                proficient in HTML, CSS, JavaScript, and various API integrations. I believe in writing
+                                clean, well-documented, and scalable code that can be easily maintained.</p>
+
+                            <p>When I'm not coding, I enjoy reading technical articles, watching movies, and spending
+                                time with my family and friends.</p>
+
+                            <p>I am passionate about developing innovative solutions to complex problems, and I am
+                                always eager to learn new technologies and tools. If you would like to know more about
+                                my experience and skills, please feel free to get in touch with me.</p>
                             <div class="main-btn"><a href="#3">Read More</a></div>
                         </div>
                     </div>
@@ -112,7 +123,7 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="left-content">
-                                                <h2>Quisque commodo quam</h2>
+                                                <h2>Bachelor of Science</h2>
                                                 <p>Vestibulum augue ex, finibus sit amet nisi id, maximus ultrices
                                                     ipsum. Maecenas rhoncus nibh in mauris lobortis, a maximus diam
                                                     faucibus. In et eros urna. Suspendisse potenti. Pellentesque
@@ -122,7 +133,7 @@
                                         </div>
                                         <div class="col-md-6">
                                             <div class="right-image">
-                                                <img src="img/first_service.jpg" alt="first service">
+                                                <img src="img/BSC.jpg" alt="first service">
                                             </div>
                                         </div>
                                     </div>
@@ -133,12 +144,12 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="left-image">
-                                                <img src="img/second_service.jpg" alt="second service">
+                                                <img src="img/HSC.jpg" alt="second service">
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="right-content">
-                                                <h2>Maecenas eu purus eu sapien</h2>
+                                                <h2>Higher Secondary School Certificate</h2>
                                                 <p>Sed vitae felis in lorem mollis mollis eget in leo. Donec commodo, ex
                                                     nec rutrum venenatis, nisi nisl malesuada magna, sed semper ipsum
                                                     enim a ipsum. Aenean in ante vel mi molestie bibendum. Quisque sit
@@ -385,7 +396,9 @@
             3. Click "Share" and choose "Embed map" tab
             4. Copy only URL and paste it within the src="" field below
 	-->
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.3030413476204!2d100.5641230193719!3d13.757206847615207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf51ce6427b7918fc!2sG+Tower!5e0!3m2!1sen!2sth!4v1510722015945"
+                                width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -393,22 +406,26 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <fieldset>
-                                        <input name="name" type="text" class="form-control" id="name" placeholder="Your name..." required="">
+                                        <input name="name" type="text" class="form-control" id="name"
+                                            placeholder="Your name..." required="">
                                     </fieldset>
                                 </div>
                                 <div class="col-md-12">
                                     <fieldset>
-                                        <input name="email" type="email" class="form-control" id="email" placeholder="Your email..." required="">
+                                        <input name="email" type="email" class="form-control" id="email"
+                                            placeholder="Your email..." required="">
                                     </fieldset>
                                 </div>
                                 <div class="col-md-12">
                                     <fieldset>
-                                        <input name="subject" type="text" class="form-control" id="subject" placeholder="Subject..." required="">
+                                        <input name="subject" type="text" class="form-control" id="subject"
+                                            placeholder="Subject..." required="">
                                     </fieldset>
                                 </div>
                                 <div class="col-md-12">
                                     <fieldset>
-                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+                                        <textarea name="message" rows="6" class="form-control" id="message"
+                                            placeholder="Your message..." required=""></textarea>
                                     </fieldset>
                                 </div>
                                 <div class="col-md-12">
@@ -426,15 +443,16 @@
 
     <div class="footer">
         <div class="content">
-            <p>Copyright &copy; 2018 Your Company . <a href="http://www.templatemo.com/tm-512-moonlight">Moonlight</a>
-                by <a href="http://www.html5max.com" target="_parent">HTML5 Max</a></p>
+            <p>Copyright &copy; <span id="currentYear"></span> Developed By <a href="https://github.com/TheAlter71"
+                    target="_blank">Mehedi
+                    Hasan</a></p>
         </div>
     </div>
 
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>
-        window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
+    window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
     </script>
 
     <script src="js/vendor/bootstrap.min.js"></script>
@@ -445,46 +463,55 @@
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
     <script type="text/javascript">
-        $(document).ready(function() {
+    $(document).ready(function() {
 
-            // navigation click actions 
-            $('.scroll-link').on('click', function(event) {
-                event.preventDefault();
-                var sectionID = $(this).attr("data-id");
-                scrollToID('#' + sectionID, 750);
-            });
-            // scroll to top action
-            $('.scroll-top').on('click', function(event) {
-                event.preventDefault();
-                $('html, body').animate({
-                    scrollTop: 0
-                }, 'slow');
-            });
-            // mobile nav toggle
-            $('#nav-toggle').on('click', function(event) {
-                event.preventDefault();
-                $('#main-nav').toggleClass("open");
-            });
+        // navigation click actions 
+        $('.scroll-link').on('click', function(event) {
+            event.preventDefault();
+            var sectionID = $(this).attr("data-id");
+            scrollToID('#' + sectionID, 750);
         });
-        // scroll function
-        function scrollToID(id, speed) {
-            var offSet = 0;
-            var targetOffset = $(id).offset().top - offSet;
-            var mainNav = $('#main-nav');
-            $('html,body').animate({
-                scrollTop: targetOffset
-            }, speed);
-            if (mainNav.hasClass("open")) {
-                mainNav.css("height", "1px").removeClass("in").addClass("collapse");
-                mainNav.removeClass("open");
-            }
+        // scroll to top action
+        $('.scroll-top').on('click', function(event) {
+            event.preventDefault();
+            $('html, body').animate({
+                scrollTop: 0
+            }, 'slow');
+        });
+        // mobile nav toggle
+        $('#nav-toggle').on('click', function(event) {
+            event.preventDefault();
+            $('#main-nav').toggleClass("open");
+        });
+    });
+    // scroll function
+    function scrollToID(id, speed) {
+        var offSet = 0;
+        var targetOffset = $(id).offset().top - offSet;
+        var mainNav = $('#main-nav');
+        $('html,body').animate({
+            scrollTop: targetOffset
+        }, speed);
+        if (mainNav.hasClass("open")) {
+            mainNav.css("height", "1px").removeClass("in").addClass("collapse");
+            mainNav.removeClass("open");
         }
-        if (typeof console === "undefined") {
-            console = {
-                log: function() {}
-            };
-        }
+    }
+    if (typeof console === "undefined") {
+        console = {
+            log: function() {}
+        };
+    }
     </script>
+
+    <script>
+    // Get the current year
+    var currentYear = new Date().getFullYear();
+
+    // Update the footer with the current year
+    document.getElementById("currentYear").innerHTML = currentYear;
+    </script>
+
 </body>
 
 </html>
