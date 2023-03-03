@@ -31,8 +31,6 @@ class SendMail extends Mailable
      */
     public function build()
     {
-        //return $this->view('mail');
-
         return $this->subject('New message from ' . $this->name)
             ->view('mail')
             ->with([

@@ -24,6 +24,6 @@ class MainController extends Controller
         Mail::to($my_mail)->send(new SendMail($request->name, $request->email, $request->subject, $request->message));
 
         // redirect home
-        return redirect()->route('home');
+        return redirect()->route('home')->with('success', 'Your message was sent successfully!');
     }
 }
