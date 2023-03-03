@@ -19,5 +19,8 @@ class MainController extends Controller
         $my_mail = 'hello.mehedi@outlook.com';
 
         Mail::to($my_mail)->send(new SendMail($request->name, $request->email, $request->message));
+
+        // redirect home
+        return redirect()->route('home');
     }
 }

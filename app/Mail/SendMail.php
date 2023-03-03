@@ -11,9 +11,9 @@ class SendMail extends Mailable
 {
     use Queueable, SerializesModels;
 
-    public $name;
-    public $email;
-    public $message;
+    public $name = '';
+    public $email = '';
+    public $message = '';
 
     public function __construct($name, $email, $message)
     {
@@ -29,9 +29,15 @@ class SendMail extends Mailable
      */
     public function build()
     {
-        view()->share('name', $this->name);
-        view()->share('email', $this->email);
-        view()->share('message', $this->message);
-        return $this->view('mail');
+        //return $this->view('mail');
+
+        return $this->from($this->email)
+            ->subject('New message from ' . $this->name)
+            ->view('mail')
+            ->with([
+                'name' => $this->name,
+                'email' => $this->email,
+                'mess' => $this->message,
+            ]);
     }
 }
