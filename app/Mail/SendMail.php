@@ -13,12 +13,14 @@ class SendMail extends Mailable
 
     public $name = '';
     public $email = '';
+    public $sub = '';
     public $message = '';
 
-    public function __construct($name, $email, $message)
+    public function __construct($name, $email, $subject, $message)
     {
         $this->name = $name;
         $this->email = $email;
+        $this->sub = $subject;
         $this->message = $message;
     }
 
@@ -31,12 +33,12 @@ class SendMail extends Mailable
     {
         //return $this->view('mail');
 
-        return $this->from($this->email)
-            ->subject('New message from ' . $this->name)
+        return $this->subject('New message from ' . $this->name)
             ->view('mail')
             ->with([
                 'name' => $this->name,
                 'email' => $this->email,
+                'subject' => $this->sub,
                 'mess' => $this->message,
             ]);
     }
